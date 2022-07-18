@@ -1,0 +1,2 @@
+# Number_Guessing_Game_Python
+In this Number Guessing Game , developed in Python Programming Language . It randomly selects a number and we or player needs to decide or type the number , if he / she couldn't able to find the correct answer number then the program will run in infinite loop and program gives various hints like correct number is greater or less than your guessed number . So this is basic idea of Number_Guessing_Game_Python and enjoy the game .
